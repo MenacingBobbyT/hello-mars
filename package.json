@@ -1,6 +1,6 @@
 {
   "name": "hello-mars",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Say hello to Mars",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MenacingBobbyT/hello-mars/issues"
   },
-  "homepage": "https://github.com/MenacingBobbyT/hello-mars#readme"
+  "homepage": "https://github.com/MenacingBobbyT/hello-mars#readme",
+  "keywords": [
+    "mars"
+  ]
 }
